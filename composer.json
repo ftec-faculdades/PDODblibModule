@@ -11,7 +11,7 @@
 		"dblib",
 		"mssql"
     ],
-    "homepage": "https://github.com/ftec-faculdades/DTIPdoDbLib",
+    "homepage": "https://github.com/ftec-faculdades/PDODblibModule",
     "authors": [
         {
             "name": "Sérgio Ernane Munhós Hermes",
