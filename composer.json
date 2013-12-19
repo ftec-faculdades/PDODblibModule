@@ -1,0 +1,26 @@
+{
+    "name": "ftec-faculdades/dti-pdodblib",
+    "description": "Módulo para PDO do DBLib - MSSQL Server",
+    "type": "library",
+    "license": "MIT",
+    "keywords": [
+        "module",
+        "zf2",
+        "dti",
+		"pdo",
+		"dblib",
+		"mssql"
+    ],
+    "homepage": "https://github.com/ftec-faculdades/DTIPdoDbLib",
+    "authors": [
+        {
+            "name": "Sérgio Ernane Munhós Hermes",
+            "email": "sergiohermes@ftec.com.br"
+        }
+    ],
+	"autoload": {
+        "classmap": [
+                "./Module.php"
+        ]
+    }
+}
